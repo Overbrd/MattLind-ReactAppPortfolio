@@ -2,11 +2,11 @@
 
 [🔗Live Demo🔗](https://rainbow-clafoutis-840024.netlify.app/)
 
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
+![Protfolio Website][Home Page Screenshot](https://github.com/Overbrd/MattLind-ReactAppPortfolio/blob/master/homepage.png?raw=true)
 
 <div align="center">
 
-[Home Page Screenshot](https://github.com/Overbrd/MattLind-ReactAppPortfolio/blob/master/homepage.png?raw=true)
+
     
 </div>
 
