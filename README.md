@@ -2,7 +2,7 @@
 
 [🔗Live Demo🔗](https://rainbow-clafoutis-840024.netlify.app/)
 
-([https://github.com/Overbrd/MattLind-ReactAppPortfolio/blob/master/homepage.png?raw=true](https://raw.githubusercontent.com/Overbrd/MattLind-ReactAppPortfolio/master/homepage.png))
+https://raw.githubusercontent.com/Overbrd/MattLind-ReactAppPortfolio/master/homepage.png
 
 <div align="center">
 
