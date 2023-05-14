@@ -624,7 +624,10 @@ html {
   /* --------- */
   /* Resume */
   /* --------- */
-  
+  div.resume.row {
+	display: none;
+  }
+
   .resume-section {
     position: relative !important;
     padding-top: 110px !important;
