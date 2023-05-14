@@ -5,8 +5,7 @@
 
 
 <div align="center">
-
-    <img src="[http://url/image.png](http://imageurl](https://raw.githubusercontent.com/Overbrd/MattLind-ReactAppPortfolio/master/homepage.png)" style=" width:600px ; height:600px "  >
+![Screenshot of Home Page.](/assets/images/homepage.png)
 
     
 
