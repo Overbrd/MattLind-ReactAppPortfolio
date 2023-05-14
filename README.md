@@ -2,10 +2,11 @@
 
 [🔗Live Demo🔗](https://rainbow-clafoutis-840024.netlify.app/)
 
-https://raw.githubusercontent.com/Overbrd/MattLind-ReactAppPortfolio/master/homepage.png
+
 
 <div align="center">
 
+![Home page]([http://imageurl](https://raw.githubusercontent.com/Overbrd/MattLind-ReactAppPortfolio/master/homepage.png) "Home Page")
 
     
 </div>
